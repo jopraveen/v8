@@ -19,3 +19,7 @@
 
 
 HaveFun:) Follow me for more awesome stuffs and if you liked this give a star *
+
+Source : https://faraz.faith/2019-12-13-starctf-oob-v8-indepth/ 
+
+see the above article for reference :)
